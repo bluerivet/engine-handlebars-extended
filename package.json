@@ -2,7 +2,7 @@
   "name": "engine-handlebars-extended",
   "version": "1.0.0",
   "description": "The Handlebars engine for Pattern Lab / Node",
-  "main": "lib/engine_handlebars.js",
+  "main": "lib/engine_handlebars_extended.js",
   "directories": {
     "lib": "lib"
   },
