@@ -1,19 +1,14 @@
 {
   "name": "engine-handlebars-extended",
-  "version": "1.0.0",
   "description": "The Handlebars engine for Pattern Lab / Node",
-  "main": "lib/engine_handlebars_extended.js",
-  "directories": {
-    "lib": "lib"
-  },
+  "version": "2.0.0-beta.1",
+  "main": "lib/engine_handlebars.js",
   "dependencies": {
     "fs-extra": "0.30.0",
     "handlebars": "4.0.5"
   },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+  "scripts": {},
+  "engines": {
+    "node": ">=10.0"
+  }
 }
